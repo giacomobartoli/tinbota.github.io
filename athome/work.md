@@ -3,7 +3,7 @@ layout: page
 title: 💼 Lavoro
 permalink: /athome/work
 parent: 🏠 &num;iorestoacasa - servizi e strumenti per la vita quotidiana
-nav_order: 1
+nav_order: 2
 ---
 
 # 💼 Lavoro

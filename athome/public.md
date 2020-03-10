@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 📚 Scuola
+title: 🇸🇲 Pubblica amministrazione
 permalink: /athome/school
 parent: 🏠 &num;iorestoacasa - servizi e strumenti per la vita quotidiana
-nav_order: 4
+nav_order: 1
 ---
 
-# 📚 Scuola
+# 🇸🇲 Pubblica amministrazione
