@@ -5,15 +5,35 @@ permalink: /news/
 nav_order: 1
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# 📰 Informazioni e notizie
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Informazioni
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Numeri utili ([fonte][iss-coronavirus])
 
+- **Istituto per la Sicurezza Sociale** - Informazioni sanitarie Coronavirus: [0549 994001][tel-iss] (attivo tutti i giorni dalle 8 alle 18)
+- **Centrale Operativa Interforze** per informazioni turisti e lavoratori frontalieri: [0549 888888][tel-coi]
+- **Dipartimento Affari Esteri** per l’assistenza ai sammarinesi nelle fasi di rientro dalle zone a rischio: [0549 882337][tel-dae]
 
-[jekyll-organization]: https://github.com/jekyll
+## Notizie
+
+- [**Istituto per la Sicurezza Sociale**][iss-coronavirus]
+    - [Pagina Facebook][iss-fb]
+- [**San Marino RTV**][smrtv]
+    - [Pagina Facebook][smrtv-fb]
+    - [App iOS][smrtv-ios] - [App Android][smrtv-android]
+
+## Documenti utili
+
+- **Autodichiarazione transito in Italia per validi motivi**, compilabile in PDF<br/>[Scarica][autodichiarazione]{: .btn .btn-blue }
+
+[tel-iss]: tel:00390549994001
+[tel-coi]: tel:00390549888888
+[tel-dae]: tel:00390549882337
+[autodichiarazione]: /docs/Moduloautodichiarazione.pdf
+[iss-coronavirus]: http://www.iss.sm/on-line/home/artCataggiornamenti-coronavirus.49004093.1.20.1.html
+[smrtv]: https://www.sanmarinortv.sm
+[iss-fb]: https://www.facebook.com/ISSRSM/
+[smrtv-fb]: https://www.facebook.com/SanMarinoRTV/
+[smrtv-ios]: https://itunes.apple.com/it/app/san-marino-rtv/id960678442?mt=8
+[smrtv-android]: https://play.google.com/store/apps/details?id=sm.smtvsanmarino.tv
