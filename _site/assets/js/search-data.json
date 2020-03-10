@@ -20,7 +20,7 @@
   }
   ,"3": {
     "title": "📈 Dati",
-    "content": "📈 Dati . Grafico . . | | | | | | | | | | | | | . | | | | | | | | | | . | | | | | | | | | | | | | Thu 27Fri 28Sat 29MarchMon 02Tue 03Wed 04Thu 05Fri 06Sat 07Mar 08Mon 09Tue 10 | x . | | | | | | | | | | 020406080100120140160180 | y . . . . decessi . positivi . quarantene . tamponi . type . Comunicati Gruppo Emergenza ISS .",
+    "content": "📈 Dati . Grafico . &lt;!– . . | | | | | | | | | | | | | . | | | | | | | | | | . | | | | | | | | | | | | | Thu 27Fri 28Sat 29MarchMon 02Tue 03Wed 04Thu 05Fri 06Sat 07Mar 08Mon 09Tue 10 | x . | | | | | | | | | | 020406080100120140160180 | y . . . . decessi . positivi . quarantene . tamponi . type . –&gt; . Comunicati Gruppo Emergenza ISS .",
     "url": "http://localhost:4201/data",
     "relUrl": "/data"
   }
