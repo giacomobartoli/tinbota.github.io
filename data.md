@@ -9,6 +9,8 @@ nav_order: 3
 
 ## Grafico
 
+![Graph](/assets/img/graph.svg)
+<!--
 {% vegalite %}
 {
   "": "https://vega.github.io/schema/vega-lite/v4.json",
@@ -81,5 +83,6 @@ nav_order: 3
   "height": 400
 }
 {% endvegalite %}
+-->
 
 ## Comunicati Gruppo Emergenza ISS
