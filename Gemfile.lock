@@ -80,6 +80,7 @@ DEPENDENCIES
   jekyll-diagrams
   just-the-docs
   minima (~> 2.0)
+  rake (>= 12.3.3)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)

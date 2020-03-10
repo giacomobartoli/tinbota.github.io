@@ -27,6 +27,7 @@ footer_content: "<b>Disclaimer</b>: le informazioni contenute su questo sito ven
 
 # Build settings
 markdown: kramdown
+remote_theme: pmarsceill/just-the-docs
 theme: "just-the-docs"
 plugins:
   - jekyll-diagrams
