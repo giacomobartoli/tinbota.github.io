@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tinbota.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  tinbota
+footer_content: "<b>Disclaimer</b>: le informazioni contenute su questo sito vengono fornite senza alcuna garanzia in merito all'affidabilità e all'esattezza dei dati riportati."
 
 # Build settings
 markdown: kramdown
