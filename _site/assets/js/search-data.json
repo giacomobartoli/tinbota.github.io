@@ -1,0 +1,76 @@
+{
+  
+  "0": {
+    "title": "",
+    "content": "404 . Pagina non trovata :( . La pagina richiesta non è stata trovata. .",
+    "url": "http://localhost:4201/404.html",
+    "relUrl": "/404.html"
+  }
+  ,"1": {
+    "title": "💶 Solidarietà",
+    "content": "💶 Solidarietà . Iniziative di solidarietà attive in territorio (fonte) . Protezione Civile Repubblica di San Marino . Conto corrente per donazioni. . IBAN conto corrente | SM97L0606709800000120161607 | . Intestato a | Protezione Civile | . Presso | Cassa di Risparmio della Repubblica di San Marino | . Causale | Emergenza Coronavirus RSM | . Società Unione Mutuo Soccorso (SUMS) . Campagna #StiamoUnitiMutuamenteSolidali - Raccolta di fondi a favore dell’Istituto per la Sicurezza Sociale per gli approvigionamenti . IBAN conto corrente | SM34U0606709808000080101601 | . Intestato a | Società Unione Mutuo Soccorso | . Presso | Cassa di Risparmio della Repubblica di San Marino | . Causale | Emergenza Coronavirus | . Un Sorriso per Norcia &amp; Non Solo . Campagna di donazioni. Il ricavato verrà consegnato, tramite un assegno, direttamente all’Ospedale di Stato. . IBAN conto corrente | SM28B0854009800000060179288 | . Intestato a | Podeschi Sara e Manzi Mirkare - Un sorriso per Norcia | . Presso | Banca di San Marino | .",
+    "url": "http://localhost:4201/charity",
+    "relUrl": "/charity"
+  }
+  ,"2": {
+    "title": "🌞 Vita quotidiana",
+    "content": "🌞 Vita quotidiana .",
+    "url": "http://localhost:4201/athome/daily",
+    "relUrl": "/athome/daily"
+  }
+  ,"3": {
+    "title": "📈 Dati",
+    "content": "📈 Dati . Grafico . . | | | | | | | | | | | | | . | | | | | | | | | | . | | | | | | | | | | | | | Thu 27Fri 28Sat 29MarchMon 02Tue 03Wed 04Thu 05Fri 06Sat 07Mar 08Mon 09Tue 10 | x . | | | | | | | | | | 020406080100120140160180 | y . . . . decessi . positivi . quarantene . tamponi . type . Comunicati Gruppo Emergenza ISS .",
+    "url": "http://localhost:4201/data",
+    "relUrl": "/data"
+  }
+  ,"4": {
+    "title": "🍿 Intrattenimento",
+    "content": "🍿 Intrattenimento .",
+    "url": "http://localhost:4201/athome/entertainment",
+    "relUrl": "/athome/entertainment"
+  }
+  ,"5": {
+    "title": "🏠 &num;iorestoacasa - servizi e strumenti per la vita quotidiana",
+    "content": "🏠 #iorestoacasa: servizi e strumenti per la vita quotidiana .",
+    "url": "http://localhost:4201/athome",
+    "relUrl": "/athome"
+  }
+  ,"6": {
+    "title": "🏡 Home",
+    "content": ". TinBòta: informazioni e risorse utili sull’emergenza Coronavirus a San Marino. .",
+    "url": "http://localhost:4201/",
+    "relUrl": "/"
+  }
+  ,"7": {
+    "title": "📰 Informazioni e notizie",
+    "content": "📰 Informazioni e notizie . Informazioni . Numeri utili (fonte) . Istituto per la Sicurezza Sociale - Informazioni sanitarie Coronavirus: 0549 994001 (attivo tutti i giorni dalle 8 alle 18) | Centrale Operativa Interforze per informazioni turisti e lavoratori frontalieri: 0549 888888 | Dipartimento Affari Esteri per l’assistenza ai sammarinesi nelle fasi di rientro dalle zone a rischio: 0549 882337 | . Notizie . Istituto per la Sicurezza Sociale Pagina Facebook | . | San Marino RTV Pagina Facebook | App iOS - App Android | . | . Documenti utili . Autodichiarazione transito in Italia per validi motivi, compilabile in PDFScarica | .",
+    "url": "http://localhost:4201/news/",
+    "relUrl": "/news/"
+  }
+  ,"8": {
+    "title": "📖 Normative e ordinanze",
+    "content": "📖 Normative e ordinanze . Leggi e decreti (fonte) . Decreto - Legge 8 marzo 2020 n. 44 | Misure urgenti di contenimento da COVID-19 (Coronavirus) | Apri | . Decreto - Legge 5 marzo 2020 n. 43 | Misure urgenti di contenimento da COVID-19 (Coronavirus) | Apri | . Decreto - Legge 5 marzo 2020 n. 42 | Istituzione della figura di commissario straordinario per l’emergenza da COVID-19 | Apri | . Decreto - Legge 28 febbraio 2020 n. 35 | Attribuzione al Segretario di Stato per la Sanità e Sicurezza Sociale del potere di Ordinanza per emergenze di sanità pubblica | Apri | . Delibere Congresso di Stato (fonte) . Delibera n. 1 del 08/03/2020 | Adozione Decreto-Legge ‘‘Misure urgenti di contenimento da COVID-19 (Coronavirus)’‘ | ApriAllegato | . Delibera n. 1 del 05/03/2020 | Adozione Decreto - Legge ‘‘Istituzione della figura di Commissario Straordinario per l’emergenza da COVID-19’‘ | ApriAllegato | . Delibera n. 2 del 05/03/2020 | Adozione Decreto - Legge ‘‘Misure urgenti di contenimento da COVID-19 (Coronavirus)’‘ | ApriAllegato | . Delibera n. 55 del 02/03/2020 | Emergenza sanitaria COVID-19 disposizioni relative all’adeguamento funzionale di spazi dell’Ospedale di Stato | Apri | . Delibera n. 2 del 26/02/2020 | Adozione Decreto - Legge ‘‘Attribuzione al Segretario di Stato per la Sanità e Sicurezza Sociale del potere di Ordinanza per emergenze di sanità pubblica’‘ | ApriAllegato | . Delibera n. 4 del 26/02/2020 | Rinnovo incarico Direttore Amministrativo dell’Istituto per la Sicurezza Sociale e nomina ad interim Direttore Generale | Apri | . Delibera n. 5 del 26/02/2020 | Proroga incarico di Direttore delle Attività Sanitarie e Socio Sanitarie dell’Istituto per la Sicurezza Sociale | Apri | . Delibera n. 1 del 23/02/2020 | Emissione Ordinanza ‘‘Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus)’‘ | ApriAllegato | . Delibera n. 1 del 22/02/2020 | Emissione Ordinanza ‘‘Provvedimenti per Emergenze Sanitarie epidemia da COVID-19’‘ | Apri | . Ordinanze (fonte) . Ordinanza n. 3 anno 2020 | Misure urgenti di contenimento del COVID-19 (Coronavirus) | ApriErrata-C. | . Ordinanza n. 2 anno 2020 | Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus) | Apri | . Ordinanza n. 1 anno 2020 | Provvedimenti per Emergenze Sanitarie epidemia da COVID-19 | Apri | .",
+    "url": "http://localhost:4201/legal/",
+    "relUrl": "/legal/"
+  }
+  ,"9": {
+    "title": "📚 Scuola",
+    "content": "📚 Scuola .",
+    "url": "http://localhost:4201/athome/school",
+    "relUrl": "/athome/school"
+  }
+  ,"10": {
+    "title": "💼 Lavoro",
+    "content": "💼 Lavoro . 📑 Suite di produttività . Google G Suite . Gmail, Documenti, Drive e Calendar per le aziende. Tutto ciò che ti serve per lavorare al meglio in unico pacchetto che funziona alla perfezione su computer, telefono o tablet. | Prezzo standard: a partire da € 4,68/mese per utente | Periodo di prova standard: 14 giorni | Agevolazioni Coronavirus: fino al 1 Luglio 2020, tutti gli utenti G Suite possono usufruire delle funzionalità premium di Hangouts Meet per le videoconferenze, incluse videochiamate fino a 250 persone, live streaming fino a 100.000 persone e salvataggio delle videochiamate su Google Drive (fonte) | . Microsoft Office 365 . Office 365 è un servizio in abbonamento basato sul cloud che raggruppa i migliori strumenti per l’odierno modo di lavorare. Grazie alla combinazione di app avanzate come Excel e Outlook con potenti servizi cloud come OneDrive e Microsoft Teams, Office 365 consente a tutti di creare e condividere, ovunque e con qualsiasi dispositivo. | Prezzo standard: a partire da € 8,80/mese per utente | Periodo di prova standard: 14 giorni | Agevolazioni Coronavirus: non previste | . 🗃 Condivisione file e progetti . Dropbox | Google Drive | . 💬 Messaggistica e videoconferenze . Skype | Slack | WhatsApp | Telegram | .",
+    "url": "http://localhost:4201/athome/work",
+    "relUrl": "/athome/work"
+  }
+  ,"11": {
+    "title": "🥎 Attività fisica",
+    "content": "🥎 Attività fisica .",
+    "url": "http://localhost:4201/athome/workout",
+    "relUrl": "/athome/workout"
+  }
+  
+}
