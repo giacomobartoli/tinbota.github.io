@@ -9,6 +9,6 @@ nav_order: 3
 
 ## Grafico
 
-![Graph](/assets/img/graph.svg)
+<img src="/assets/img/graph.svg" alt="Graph"/>
 
 ## Comunicati Gruppo Emergenza ISS
