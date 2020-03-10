@@ -2,7 +2,7 @@
 layout: page
 title: 📈 Dati
 permalink: /data
-nav_order: 2
+nav_order: 3
 ---
 
 # 📈 Dati

@@ -2,7 +2,7 @@
 layout: page
 title: 💶 Solidarietà
 permalink: /charity
-nav_order: 2
+nav_order: 4
 ---
 
 # 💶 Solidarietà
