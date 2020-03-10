@@ -23,12 +23,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tinbota.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  tinbota
+footer_content: "<b>Disclaimer</b>: le informazioni contenute su questo sito vengono fornite senza alcuna garanzia in merito all'affidabilità e all'esattezza dei dati riportati. Dati, nomi e marchi vengono citati solo a scopo informativo, senza alcuna affiliazione ad aziende terze. Per segnalazioni, scrivere a <a href='mailto:tinbota@icloud.com'>tinbota@icloud.com</a>, oppure <a href='https://github.com/tinbota/tinbota.github.io/issues/new'>aprire una issue su GitHub</a>.<br/>"
 
 # Build settings
 markdown: kramdown
 theme: "just-the-docs"
 plugins:
-  - jekyll-feed
+  - jekyll-diagrams
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
