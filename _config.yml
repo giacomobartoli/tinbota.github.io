@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TinBòta
+title: "👊 TinBòta"
 email: tinbota@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Un luogo dove raccogliere tutte le informazioni sull'emergenza del nuovo Coronavirus COVID-19 a San Marino: notizie, dati, provvedimenti, informazioni, ma anche consigli su come affrontare le limitazioni.

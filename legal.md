@@ -23,15 +23,15 @@ nav_order: 2
 ## Delibere Congresso di Stato ([fonte][delibere])
 
 |:-|:-|:-|
-| Delibera n. 1 del 08/03/2020 | **Adozione Decreto-Legge ''Misure urgenti di contenimento da COVID-19 (Coronavirus)''** | [Apri][del01-0803]{: .btn .btn-blue }<br/>[Allegato][del01-0803-all]{: .btn } |
-| Delibera n. 1 del 05/03/2020 | **Adozione Decreto - Legge ''Istituzione della figura di Commissario Straordinario per l'emergenza da COVID-19''** | [Apri][del01-0503]{: .btn .btn-blue }<br/>[Allegato][del01-0503-all]{: .btn } |
-| Delibera n. 2 del 05/03/2020 | **Adozione Decreto - Legge ''Misure urgenti di contenimento da COVID-19 (Coronavirus)''** | [Apri][del02-0503]{: .btn .btn-blue }<br/>[Allegato][del02-0503-all]{: .btn } |
-| Delibera n. 55 del 02/03/2020 | **Emergenza sanitaria COVID-19 disposizioni relative all'adeguamento funzionale di spazi dell'Ospedale di Stato** | [Apri][del55-0203]{: .btn .btn-blue } |
-| Delibera n. 2 del 26/02/2020 | **Adozione Decreto - Legge ''Attribuzione al Segretario di Stato per la Sanità e Sicurezza Sociale del potere di Ordinanza per emergenze di sanità pubblica''** | [Apri][del03-2602]{: .btn .btn-blue }<br/>[Allegato][del03-2602-all]{: .btn } |
-| Delibera n. 4 del 26/02/2020 | **Rinnovo incarico Direttore Amministrativo dell'Istituto per la Sicurezza Sociale e nomina ad interim Direttore Generale** | [Apri][del04-2602]{: .btn .btn-blue } | 
-| Delibera n. 5 del 26/02/2020 | **Proroga incarico di Direttore delle Attività Sanitarie e Socio Sanitarie dell'Istituto per la Sicurezza Sociale** | [Apri][del05-2602]{: .btn .btn-blue } |
-| Delibera n. 1 del 23/02/2020 | **Emissione Ordinanza ''Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus)''** | [Apri][del01-2302]{: .btn .btn-blue }<br/>[Allegato][del01-2302-all]{: .btn } |
-| Delibera n. 1 del 22/02/2020 | **Emissione Ordinanza ''Provvedimenti per Emergenze Sanitarie epidemia da COVID-19''** | [Apri][del01-2202]{: .btn .btn-blue } |
+| Delibera n. 1 08/03/2020 | **Adozione Decreto-Legge ''Misure urgenti di contenimento da COVID-19 (Coronavirus)''** | [Apri][del01-0803]{: .btn .btn-blue }<br/>[Allegato][del01-0803-all]{: .btn } |
+| Delibera n. 1 05/03/2020 | **Adozione Decreto - Legge ''Istituzione della figura di Commissario Straordinario per l'emergenza da COVID-19''** | [Apri][del01-0503]{: .btn .btn-blue }<br/>[Allegato][del01-0503-all]{: .btn } |
+| Delibera n. 2 05/03/2020 | **Adozione Decreto - Legge ''Misure urgenti di contenimento da COVID-19 (Coronavirus)''** | [Apri][del02-0503]{: .btn .btn-blue }<br/>[Allegato][del02-0503-all]{: .btn } |
+| Delibera n. 55 02/03/2020 | **Emergenza sanitaria COVID-19 disposizioni relative all'adeguamento funzionale di spazi dell'Ospedale di Stato** | [Apri][del55-0203]{: .btn .btn-blue } |
+| Delibera n. 2 26/02/2020 | **Adozione Decreto - Legge ''Attribuzione al Segretario di Stato per la Sanità e Sicurezza Sociale del potere di Ordinanza per emergenze di sanità pubblica''** | [Apri][del03-2602]{: .btn .btn-blue }<br/>[Allegato][del03-2602-all]{: .btn } |
+| Delibera n. 4 26/02/2020 | **Rinnovo incarico Direttore Amministrativo dell'Istituto per la Sicurezza Sociale e nomina ad interim Direttore Generale** | [Apri][del04-2602]{: .btn .btn-blue } | 
+| Delibera n. 5 26/02/2020 | **Proroga incarico di Direttore delle Attività Sanitarie e Socio Sanitarie dell'Istituto per la Sicurezza Sociale** | [Apri][del05-2602]{: .btn .btn-blue } |
+| Delibera n. 1 23/02/2020 | **Emissione Ordinanza ''Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus)''** | [Apri][del01-2302]{: .btn .btn-blue }<br/>[Allegato][del01-2302-all]{: .btn } |
+| Delibera n. 1 22/02/2020 | **Emissione Ordinanza ''Provvedimenti per Emergenze Sanitarie epidemia da COVID-19''** | [Apri][del01-2202]{: .btn .btn-blue } |
 
 [del01-0803]: http://www.interni.segreteria.sm/on-line/home/delibere-congresso-di-stato/documento25115761.html
 [del01-0803-all]: http://www.interni.segreteria.sm/on-line/home/documento25115762.html
@@ -51,9 +51,9 @@ nav_order: 2
 ## Ordinanze ([fonte][ordinanze])
 
 |:-|:-|:-|
-| Ordinanza n. 3 anno 2020 | **Misure urgenti di contenimento del COVID-19 (Coronavirus)** | [Apri][ord03]{: .btn .btn-blue }<br/>[Errata-C.][ordec03]{: .btn } |
-| Ordinanza n. 2 anno 2020 | **Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus)** | [Apri][ord02]{: .btn .btn-blue } |
-| Ordinanza n. 1 anno 2020 | **Provvedimenti per Emergenze Sanitarie epidemia da COVID-19** | [Apri][ord01]{: .btn .btn-blue } |
+| Ordinanza n. 3 /2020 | **Misure urgenti di contenimento del COVID-19 (Coronavirus)** | [Apri][ord03]{: .btn .btn-blue }<br/>[Errata-C.][ordec03]{: .btn } |
+| Ordinanza n. 2 /2020 | **Misure urgenti di prevenzione per evitare la diffusione del COVID-19 (Coronavirus)** | [Apri][ord02]{: .btn .btn-blue } |
+| Ordinanza n. 1 /2020 | **Provvedimenti per Emergenze Sanitarie epidemia da COVID-19** | [Apri][ord01]{: .btn .btn-blue } |
 
 [ordec03]: http://www.sanmarino.sm/on-line/home/canali-tematici/documento44115719.html 
 [ord03]: http://www.sanmarino.sm/on-line/home/canali-tematici/documento44115619.html
