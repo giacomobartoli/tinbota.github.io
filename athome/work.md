@@ -1,12 +1,11 @@
 ---
 layout: page
-title: 💼 Lavoro
-permalink: /athome/work
-parent: 🏠 &num;iorestoacasa - servizi e strumenti per la vita quotidiana
-nav_order: 2
+title: 💼 &num;iorestoacasa Lavoro
+permalink: /athome-work
+nav_order: 9
 ---
 
-# 💼 Lavoro
+# 💼 #iorestoacasa Lavoro
 
 ## 📑 Suite di produttività
 

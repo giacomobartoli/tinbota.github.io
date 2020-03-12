@@ -1,12 +1,11 @@
 ---
 layout: page
-title: 🛍 Aziende
-permalink: /athome/enterprise/
-parent: 🏠 &num;iorestoacasa - servizi e strumenti per la vita quotidiana
-nav_order: 2
+title: 🛍 &num;iorestoacasa Aziende
+permalink: /athome-enterprise/
+nav_order: 8
 ---
 
-# 🛍 Aziende
+# 🛍 #iorestoacasa Aziende
 
 ## Iniziative di sostegno e promozioni
 

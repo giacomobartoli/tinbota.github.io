@@ -1,12 +1,11 @@
 ---
 layout: page
-title: 🇸🇲 Pubblica amministrazione
-permalink: /athome/public
-parent: 🏠 &num;iorestoacasa - servizi e strumenti per la vita quotidiana
-nav_order: 1
+title: 🇸🇲 &num;iorestoacasa Pubblica amministrazione
+permalink: /athome-public
+nav_order: 7
 ---
 
-# 🇸🇲 Pubblica amministrazione
+# 🇸🇲 #iorestoacasa Pubblica amministrazione
 
 Maggiori informazioni su [Gov.sm][govsm]
 

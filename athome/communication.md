@@ -1,12 +1,11 @@
 ---
 layout: page
-title: 📞 Comunicazione
-permalink: /athome/communication
-parent: 🏠 &num;iorestoacasa - servizi e strumenti per la vita quotidiana
-nav_order: 3
+title: 📞 &num;iorestoacasa Comunicazione
+permalink: /athome-communication
+nav_order: 10
 ---
 
-# 📞 Comunicazione
+# 📞 #iorestoacasa Comunicazione
 
 ## 📱 Telefonia mobile
 

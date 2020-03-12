@@ -1,11 +1,10 @@
 ---
 layout: page
-title: 📚 Scuola
-permalink: /athome/school
-parent: 🏠 &num;iorestoacasa - servizi e strumenti per la vita quotidiana
-nav_order: 4
+title: 📚 &num;iorestoacasa Scuola
+permalink: /athome-school
+nav_order: 11
 ---
 
-# 📚 Scuola
+# 📚 #iorestoacasa Scuola
 
 ## In costruzione

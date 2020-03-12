@@ -1,12 +1,11 @@
 ---
 layout: page
-title: 🍿 Intrattenimento
-permalink: /athome/entertainment
-parent: 🏠 &num;iorestoacasa - servizi e strumenti per la vita quotidiana
-nav_order: 5
+title: 🍿 &num;iorestoacasa Intrattenimento
+permalink: /athome-entertainment
+nav_order: 12
 ---
 
-# 🍿 Intrattenimento
+# 🍿 #iorestoacasa Intrattenimento
 
 ## 📼 Film e serie TV
 
