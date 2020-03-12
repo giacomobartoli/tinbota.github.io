@@ -15,7 +15,7 @@ Conto corrente per donazioni.
 
 |:-|:-|
 | IBAN conto corrente | `SM97L0606709800000120161607` |
-| Intestato a | **Protezione Civile** |
+| Intestato a | **Protezione Civile di San Marino** |
 | Presso | **Cassa di Risparmio della Repubblica di San Marino** |
 | Causale | **Emergenza Coronavirus RSM** |
 
