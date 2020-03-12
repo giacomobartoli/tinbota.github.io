@@ -8,8 +8,10 @@ permalink: /
 nav_order: 0
 ---
 
-<img src="/assets/img/mura.jpg" alt="Mura di San Marino. Foto: an.difal su Flickr rilasciata sotto licenza Creative Commons http://bit.ly/2TTLcov"/>
+<img src="/assets/img/tinbota.jpg"/>
 
-# TinBòta: informazioni e risorse utili sull'emergenza Coronavirus a San Marino.
+# TinBòta! Informazioni e risorse utili sull'emergenza Coronavirus a San Marino.
 
-Un luogo dove raccogliere tutte le informazioni sull'emergenza del nuovo Coronavirus COVID-19 a San Marino: notizie, dati, provvedimenti, informazioni, ma anche consigli su come affrontare le limitazioni.
+Un luogo dove raccogliere tutte le informazioni sull'emergenza del nuovo Coronavirus COVID-19 a San Marino: notizie, dati, provvedimenti, informazioni, ma anche consigli su come affrontare le limitazioni quotidiane.
+
+Per iniziare, scegli una pagina dal menu laterale.
