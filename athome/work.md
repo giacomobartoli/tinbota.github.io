@@ -13,7 +13,6 @@ nav_order: 9
 
 |:-|:-|
 | ![G Suite][logo-gsuite]{:width="100px"} | Gmail, Documenti, Drive e Calendar per le aziende. Tutto ciò che ti serve per lavorare al meglio in unico pacchetto che funziona alla perfezione su computer, telefono o tablet. |
-| **Prezzo standard** | a partire da € 4,68/mese/utente |
 | **Periodo di prova gratuito** | 14 giorni |
 | **Agevolazioni emergenza** | **Accesso gratuito alle funzionalità avanzate del servizio di videoconferenza Hangouts Meet per tutti i clienti Gsuite, università, scuole e no-profit fino al 1 luglio 2020.** Fino a 250 partecipanti per videochiamata, streaming live fino a 100,000 utenti e la possibilità di registrare e salvare i meetings su Google Drive. ([fonte][gsuite]) |
 
@@ -21,7 +20,6 @@ nav_order: 9
 
 |:-|:-|
 | ![Office 365][logo-office365]{:width="100px"} | Office 365 è un servizio in abbonamento basato sul cloud che raggruppa i migliori strumenti per l'odierno modo di lavorare. Grazie alla combinazione di app avanzate come Excel e Outlook con potenti servizi cloud come OneDrive e Microsoft Teams, Office 365 consente a tutti di creare e condividere, ovunque e con qualsiasi dispositivo. |
-| **Prezzo standard** | a partire da € 8,80/mese/utente |
 | **Periodo di prova gratuito** | 14 giorni |
 | **Agevolazioni emergenza** | **_Individui/Professionisti/Piccole & Medie Imprese_**: è possibile attivare una versione gratuita di [Microsoft Teams (versione completa)][msteams] che ti permette di creare un ambiente di collaborazione in pochi passaggi, valida fino a Gennaio 2021.<br/>**_Aziende_**: è possibile attivare Office 365 E1 gratuitamente per 6 mesi per avere Microsoft Teams e tutti i servizi di produttività e collaborazione in tutta sicurezza. Contatta il tuo referente di Microsoft Servizi o il tuo partner di riferimento per ricevere ulteriore supporto. |
 
@@ -41,8 +39,7 @@ nav_order: 9
 |:-|:-|
 | ![Dropbox][logo-dropbox]{:width="100px"} | Dropbox è un servizio di file hosting che offre cloud storage, sincronizzazione automatica dei file, cloud personale e software client. |
 | **Piano gratuito** | 2GB di spazio |
-| **Piano a pagamento** | _Personale_: 2TB di spazio a partire da € 9,99/mese per privati<br/>_Aziendale_: 5TB di spazio a partire da € 10,00/mese/utente |
-| **Periodo di prova gratuito** | 14 giorni |
+| **Periodo di prova piano a pagamento** | 14 giorni |
 | **Agevolazioni emergenza** | non previste |
 
 ### **[Google Drive](https://drive.google.com/)**
@@ -50,7 +47,6 @@ nav_order: 9
 |:-|:-|
 | ![Google Drive][logo-gdrive]{:width="100px"} | L'Account Google ti dà diritto a 15 GB di spazio di archiviazione gratuito utilizzato da Google Drive, Gmail e Google Foto per permetterti di archiviare file, salvare allegati email ed effettuare il backup di foto e video. |
 | **Piano gratuito** | 2GB di spazio |
-| **Piano a pagamento** | _Personale_: 100GB di spazio a partire da € 1,99/mese per privati<br/>_Aziendale_: vedi [G Suite](#google-g-suite). |
 | **Periodo di prova piano a pagamento** | non previsto |
 | **Agevolazioni emergenza** | non previste |
 

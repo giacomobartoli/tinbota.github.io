@@ -13,7 +13,6 @@ nav_order: 12
 
 |:-|:-|
 | ![Infinity][logo-infinity]{:width="100px"} | Infinity mette a disposizione il ricchissimo catalogo che comprende oltre ai grandi titoli in prima visione e in 4K, migliaia di film, cartoni e serie per tutta la famiglia. |
-| **Prezzo standard** | a partire da € 5,75/mese |
 | **Periodo di prova gratuito** | 2 mesi |
 | **Agevolazioni emergenza** | **A partire dal 7 marzo, chi si registrerà su infinitytv.it potrà usufruire del servizio gratuitamente per due mesi.** |
 
@@ -21,7 +20,6 @@ nav_order: 12
 
 |:-|:-|
 | ![TIMVision][logo-timvision]{:width="100px"} | Con TIMVISION hai film, serie tv, cartoni e il meglio dei programmi Mediaset trasmessi negli ultimi sette giorni sul tuo dispositivo preferito*. |
-| **Prezzo standard** | € 5,00/mese|
 | **Periodo di prova gratuito** | 1 mese |
 | **Agevolazioni emergenza** | **Fino al 31/03/2020, TIMVISION è gratis registrandosi tramite [questo link][timvision].** |
 
@@ -29,7 +27,6 @@ nav_order: 12
 
 |:-|:-|
 | ![Netflix][logo-netflix]{:width="100px"} | Film, serie TV e tanto altro. Senza limiti. Guarda ciò che vuoi ovunque. Disdici quando vuoi. |
-| **Prezzo standard** | a partire da € 7,99/mese |
 | **Periodo di prova gratuito** | 1 mese |
 | **Agevolazioni emergenza** | non previste |
 
@@ -37,7 +34,6 @@ nav_order: 12
 
 |:-|:-|
 | ![Prime Video][logo-primevideo]{:width="100px"} | Guarda Jack Ryan e altre serie Amazon Original, oltre a film e serie TV di grande successo: sono tutti disponibili con la tua iscrizione Amazon Prime. |
-| **Prezzo standard** | a partire da € 19,99/anno, servizio già incluso nell'abbonamento Amazon Prime |
 | **Periodo di prova gratuito** | 1 mese |
 | **Agevolazioni emergenza** | non previste |
 
@@ -45,7 +41,6 @@ nav_order: 12
 
 |:-|:-|
 | ![NowTV][logo-nowtv]{:width="100px"} | Scegli quello che fa per te: 1000 Film on demand, le Serie TV del momento, gli Show più amati e il grande Sport da guardare in streaming. |
-| **Prezzo standard** | a partire da € 9,99/mese |
 | **Periodo di prova gratuito** | 14 giorni |
 | **Agevolazioni emergenza** | non previste |
 
